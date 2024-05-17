@@ -1,1 +1,0 @@
-# big-data-ex-1
